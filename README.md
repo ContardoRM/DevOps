@@ -1,15 +1,12 @@
+# Desafio DevOps
+Se compone de las siguientes actividades
+I.    Instalar Docker
+II.   Clonar Proyecto Base
+III.  Levantar instancia Docker con python
+IV.   Levantar instancia Docker con mongodb
 
-
-
-
-
-
-
-# Getting Docker
-
-Docker is available for Linux, MacOS, and Windows.
-
-### MacOS
+#I Instalar Docker 
+### MacOS 
 
 Docker for Mac is best installed with [Homebrew](http://brew.sh) and [Homebrew Cask](http://caskroom.io/). For other ways to install on MacOS, see [Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/) in Docker's docs.
 
