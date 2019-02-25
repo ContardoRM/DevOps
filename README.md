@@ -1,7 +1,7 @@
 ### Desafio DevOps
 ### Se compone de las siguientes actividades
 * [Instalar docker](#Instalacion)
-### II.   Clonar Proyecto Base
+* [Clonar Proyecto Base](#Clonar)
 ### III.  Levantar instancia Docker con python
 ### IV.   Levantar instancia Docker con mongodb
 
@@ -92,4 +92,16 @@ For Arch Linux, Ubuntu and CentOS, this will enable auto-starting of the Docker 
 
 ```sh
 sudo systemctl enable docker
+```
+##Clonar
+
+```bash
+$ git clone git@github.com:intelygenz/the-real-devops-challenge.git
+Cloning into 'the-real-devops-challenge'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0)
+Receiving objects: 100% (3/3), done.
+$ cd ./the-real-devops-challenge
 ```
