@@ -1,11 +1,11 @@
 ### Desafio DevOps
 ### Se compone de las siguientes actividades
-### I.    Instalar Docker
+* [Instar docker](#Instalar Docker)
 ### II.   Clonar Proyecto Base
 ### III.  Levantar instancia Docker con python
 ### IV.   Levantar instancia Docker con mongodb
 
-### Instalar Docker 
+## Instalar Docker 
 ### MacOS 
 
 Docker for Mac is best installed with [Homebrew](http://brew.sh) and [Homebrew Cask](http://caskroom.io/). For other ways to install on MacOS, see [Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/) in Docker's docs.
