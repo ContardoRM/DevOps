@@ -2,7 +2,7 @@
 ### Se compone de las siguientes actividades
 * [Instalar docker](#Instalacion)
 * [Clonar Proyecto Base](#Clonar)
-* [Correr Localmente](#Correr Localmente)
+* [Correr Localmente](#Localmente)
 ### III.  Levantar instancia Docker con python
 ### IV.   Levantar instancia Docker con mongodb
 
@@ -106,7 +106,7 @@ remote: Total 3 (delta 0), reused 0 (delta 0)
 Receiving objects: 100% (3/3), done.
 $ cd ./the-real-devops-challenge
 ```
-## Correr Localmente
+## Localmente
 ### Run the app
 
 If you want to run the app locally:
