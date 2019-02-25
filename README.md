@@ -27,7 +27,7 @@ sudo systemctl start docker    # Start Docker
 ```
 
 ### Ubuntu
-
+##Clonar
 `docker.io` is available from the Ubuntu repositories (as of Xenial).
 
 ```bash
