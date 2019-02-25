@@ -1,9 +1,9 @@
-# Desafio DevOps
-Se compone de las siguientes actividades
-I.    Instalar Docker
-II.   Clonar Proyecto Base
-III.  Levantar instancia Docker con python
-IV.   Levantar instancia Docker con mongodb
+### Desafio DevOps
+### Se compone de las siguientes actividades
+### I.    Instalar Docker
+### II.   Clonar Proyecto Base
+### III.  Levantar instancia Docker con python
+### IV.   Levantar instancia Docker con mongodb
 
 #I Instalar Docker 
 ### MacOS 
