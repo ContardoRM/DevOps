@@ -1,6 +1,7 @@
 ### Desafio DevOps
 ### Se compone de las siguientes actividades
 * [Instalar docker](#Instalacion)
+* [Cuenta Github](#Github)
 * [Clonar Proyecto Base](#Clonar)
 * [Correr Localmente](#Localmente)
 ### III.  Levantar instancia Docker con python
@@ -114,6 +115,16 @@ For Arch Linux, Ubuntu and CentOS, this will enable auto-starting of the Docker 
 ```sh
 sudo systemctl enable docker
 ```
+## Github
+
+Lo primero que necesitas es una cuenta de usuario gratuita. Simplemente visita https://github.com, elige un nombre de usuario que no esté ya en uso, proporciona un correo y una contraseña, y pulsa el botón verde grande “Sign up for GitHub”.
+Lo siguiente que verás es la página de precios para planes mejores, pero lo puedes ignorar por el momento. GitHub te enviará un correo para verificar la dirección que les has dado. Confirma la dirección ahora, es bastante importante (como veremos después).
+Si pulsas en el logo del gato con patas de pulpo en la parte superior izquierda de la pantalla llegarás a tu escritorio principal. Ahora ya estás listo para comenzar a usar GitHub.
+Si prefieres usar SSH, necesitas configurar una clave pública. Si aun no la tienes, mira cómo generarla en Generando tu clave pública SSH.) Abre tu panel de control de la cuenta utilizando el enlace de la parte superior derecha de la ventana:
+
+https://git-scm.com/book/es/v2/GitHub-Creaci%C3%B3n-y-configuraci%C3%B3n-de-la-cuenta
+
+
 ## Clonar
 
 ```bash
