@@ -6,7 +6,27 @@
 ### III.  Levantar instancia Docker con python
 ### IV.   Levantar instancia Docker con mongodb
 
-## Instalacion 
+## Instalacion
+### Open Suse
+Para instalar Docker y Docker Compose
+```bash
+zypper install docker docker-compose
+```
+Para agregar el demonio de docker al boot:
+```bash
+sudo systemctl enable docker
+```
+Iniciar el servicio Docker
+```bash
+sudo systemctl start docker
+```
+Agregar Usuario al grupo docker 
+```bash
+sudo usermod -G docker -a YOURUSERNAME
+```
+Para que tenga efectos volver a logearse a nivel de consola.
+
+
 ### MacOS 
 
 Docker for Mac is best installed with [Homebrew](http://brew.sh) and [Homebrew Cask](http://caskroom.io/). For other ways to install on MacOS, see [Install Docker for Mac](https://docs.docker.com/docker-for-mac/install/) in Docker's docs.
