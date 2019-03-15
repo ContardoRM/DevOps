@@ -128,7 +128,7 @@ https://git-scm.com/book/es/v2/GitHub-Creaci%C3%B3n-y-configuraci%C3%B3n-de-la-c
 ## Clonar
 
 ```bash
-$ git clone git@github.com:intelygenz/the-real-devops-challenge.git
+$ git clone https://github.com/intelygenz/the-real-devops-challenge.git
 Cloning into 'the-real-devops-challenge'...
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
